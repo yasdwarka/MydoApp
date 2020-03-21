@@ -1,4 +1,4 @@
-<b>OpenClassrooms - Project 8</b>
+<h3><b>OpenClassrooms - Project 8 </h3> </b>
 
 
 Enhance an existing project
@@ -19,18 +19,18 @@ Create documentation about the project (including your audit writeup).
 
 Technologies has to be used:
 
-HTML
+* HTML
 
-CSS
+* CSS
 
-Javascript
+* Javascript
 
-Jasmine (JavaScript testing framework)
+* Jasmine (JavaScript testing framework)
 
-DevTools
+* DevTools
 
-BDD (Behavior Driven Development)
+* BDD (Behavior Driven Development)
 
-TDD (Test Driven Development)
+* TDD (Test Driven Development)
 
-MVC architecture (Model-View-Controller)
+* MVC architecture (Model-View-Controller)
