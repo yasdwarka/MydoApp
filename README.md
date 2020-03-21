@@ -1,4 +1,4 @@
-OpenClassrooms - Project 8
+<b>OpenClassrooms - Project 8</b>
 
 
 Enhance an existing project
