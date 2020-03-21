@@ -2,6 +2,7 @@ OpenClassrooms - Project 8
 
 
 Enhance an existing project
+
 Requirements:
 
 Fix the bugs in the project.
