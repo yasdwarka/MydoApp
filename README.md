@@ -5,17 +5,17 @@ Enhance an existing project
 
 Requirements:
 
-Fix the bugs in the project.
+1. Fix the bugs in the project.
 
-Add tests to the project.
+2. Add tests to the project.
 
-Compare the project with the competitors project.
+3. Compare the project with the competitors project.
 
-Analyze the performance of both projects.
+4. Analyze the performance of both projects.
 
-Perform audits for both projects.
+5. Perform audits for both projects.
 
-Create documentation about the project (including your audit writeup).
+6. Create documentation about the project (including your audit writeup).
 
 Technologies has to be used:
 
