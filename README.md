@@ -1,7 +1,7 @@
 <h3><b>OpenClassrooms - Project 8 </h3> </b>
 
 
-<u> Enhance an existing project </u>
+| Enhance an existing project  |
 
 Requirements:
 
