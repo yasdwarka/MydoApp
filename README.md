@@ -20,10 +20,17 @@ Create documentation about the project (including your audit writeup).
 Technologies has to be used:
 
 HTML
+
 CSS
+
 Javascript
+
 Jasmine (JavaScript testing framework)
+
 DevTools
+
 BDD (Behavior Driven Development)
+
 TDD (Test Driven Development)
+
 MVC architecture (Model-View-Controller)
