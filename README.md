@@ -17,7 +17,7 @@ Requirements:
 
 6. Create documentation about the project (including your audit writeup).
 
-Technologies has to be used:
+7. Technologies to be used:
 
 * HTML
 
